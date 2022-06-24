@@ -3,8 +3,8 @@
 struct Data
 {
     char name;
-    int num;
-    bool motivation;
+    int moons;
+    bool life;
     Data();
 };
 

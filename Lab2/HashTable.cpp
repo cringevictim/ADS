@@ -7,8 +7,8 @@
 
 Data::Data(){
     name = (char)(rand() % 26 + 65);
-    num = rand() % 10001;
-    motivation = rand() % 2;
+    moons = rand() % 40;
+    life = rand() % 2;
 };
 
 LinkedList::LinkedList()
